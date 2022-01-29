@@ -3,7 +3,7 @@ For now done :
 - [x] Button style
 - [ ] Checkbox style
 
-Already used in Electrics Eagles Log Parser v1.0.5
+Already used in Electrics Eagles Log Parser v1.0.5 \
 To do: 
 - [x] Button
 - [ ] Nav Bar
@@ -11,3 +11,6 @@ To do:
 - [ ] Links 
 - [ ] Drop Downs
 - [ ] And lot more.
+
+
+For docs and demo just click to pages.
